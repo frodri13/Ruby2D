@@ -1,7 +1,7 @@
 require 'ruby2d'
 
 hero = Sprite.new(
-	'./img/hero.png',
+	'../img/hero.png',
 	width: 78,
 	height: 99,
 	clip_width: 78, 
