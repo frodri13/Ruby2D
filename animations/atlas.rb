@@ -1,7 +1,7 @@
 require 'ruby2d'
 
 atlas = Sprite.new(
-	'./img/atlas.png',
+	'../img/atlas.png',
 	animations: {
 		count: [
 			{

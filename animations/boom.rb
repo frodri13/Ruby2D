@@ -1,7 +1,7 @@
 require 'ruby2d'
 
 boom = Sprite.new(
-	'./img/boom.png',
+	'../img/boom.png',
 	clip_width: 127,
 	time: 75
 )
